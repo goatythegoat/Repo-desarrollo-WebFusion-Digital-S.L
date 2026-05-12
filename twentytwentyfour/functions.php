@@ -11,7 +11,7 @@
 /**
  * Register block styles.
  */
-
+<h1>divagando</h1>
 if ( ! function_exists( 'twentytwentyfour_block_styles' ) ) :
 	/**
 	 * Registers custom block styles.
